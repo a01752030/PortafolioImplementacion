@@ -21,9 +21,8 @@ Para evaluar los indicadores de las subcompetencias, se deberán revisar los sig
   
 - `data.py`: Aquí es donde se gestiona la carga y preprocesamiento de los datos que se utilizan en `logistic.py`.
 
-## Cambios Implementados
 
-### Feedback del Docente
+### Feedback 
 1. **Agregar el README**: Se solicitó la creación de un archivo README para proporcionar una visión general y detalles técnicos del proyecto.
 
     **Solución**: Se redactó este archivo README para incluir todos los detalles solicitados.
@@ -33,7 +32,3 @@ Para evaluar los indicadores de las subcompetencias, se deberán revisar los sig
     **Solución**: Se generó un reporte (no incluido en este README) que presenta un análisis detallado de los resultados, las métricas de rendimiento y posibles mejoras.
 
 ---
-
-Se recomienda que cualquier persona interesada en ejecutar o modificar este código tenga un conocimiento básico de Python, Regresión Logística, y técnicas generales de Machine Learning para obtener el máximo provecho.
-
-Puedes copiar y pegar el contenido de arriba directamente en tu archivo README.md en tu repositorio. ¡Espero que te sea de ayuda!
